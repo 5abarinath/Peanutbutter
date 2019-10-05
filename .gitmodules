@@ -1,0 +1,3 @@
+[submodule "Peanutbutter/vendor/spdlog"]
+	path = Peanutbutter/vendor/spdlog
+	url = https://github.com/gabime/spdlog
